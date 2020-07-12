@@ -1,0 +1,382 @@
+
+@media only screen and (max-width:1299px) and (min-width:1199px){
+ .asset-img img.img-fluid {
+    max-width: 105%;
+}
+}
+@media only screen and (max-width:1199px) and (min-width:993px){
+    
+    
+    .asset-img img.img-fluid {
+    max-width: 100%;
+}
+    .asset-holder {
+    width: 85%;
+}
+
+.asset-holder img {
+    width: 64%;
+}
+
+.step-content.step-1 {}
+
+.step-content.step-1 {
+    margin: 50px -25px;
+}
+    
+    img.macbook {
+    width: 90%;
+    margin-left: 20px;
+    margin-top: 120px;
+}
+
+    .asset-holder.bg-right {
+    margin: 0 0 0 auto;
+}
+    
+    .step-content.step-2 {
+    margin-right: -25px;
+}
+    
+    img.smartphone {
+    width: 50%;
+    margin-top: 30px;
+}
+
+.step-content.step-3 {
+    margin: 75px -25px;
+}
+}
+
+@media only screen and (max-width:992px) and (min-width:768px){
+    
+ .nav-sticky-custom {
+    width: 100%;
+}
+.nav-sticky-custom button {
+    float: right;
+    margin-top: 20px;
+}
+.asset-img img {
+    display: none;
+}
+.feature-block {
+    margin: 10px 18px;
+}    
+ .video-background-wrapper {
+    height: 625px;
+}
+.video-background-holder {
+    width: 60%;
+        height: 300px;
+    margin: 0 auto;
+}    
+.video-background-wrapper h3 {
+    text-align: center;
+}
+.video-background-wrapper p {
+    text-align: center;
+    padding: 0px 100px;
+    margin-bottom: 50px;
+}
+    
+    .asset-holder {
+    width: 75%;
+    margin: 0 auto;
+    text-align: center;
+}
+.asset-holder img {
+    width: 60%;
+    margin-left: 0;
+}    
+ .step-content.step-1 {
+    margin: 0px;
+    text-align: center;
+    margin-top: 50px;
+}
+.step-content.step-2 {
+    margin: 0px;
+    text-align: center!important;
+}
+.step-2 p.step-text {
+    padding: 0px;
+}    
+ .step-1 h3.step-title {
+    padding: 0px;
+}
+.step-1 p.step-text {
+    padding: 0px;
+}    
+ .step-asset-responsive-1 {
+    margin-top: -908px;
+}
+.step-content.text-right.step-2 {
+    margin-top: 565px;
+}
+img.macbook {
+    width: 76%;
+    margin-top: 115px;
+}    
+.step-content.step-3 {
+    margin: 0px;
+    text-align: center;
+}
+.step-content h3.step-title {
+    padding: 0px;
+}
+.step-content p.step-text {
+    padding: 0px;
+}    
+.asset-holder {
+    margin-top: 45px;
+    background-position: center;
+}
+.step-content.step-3 {
+    margin-top: 65px;
+}
+    img.smartphone {
+    width: 48%;
+}    
+    
+    .asset-holder.bg-right {
+    background-position: center;
+    margin-top: 165px;
+
+    
+}
+    .author-content p{
+        padding: 0px;
+    }
+}
+@media only screen and (max-width: 768px) and (min-width: 451px) {
+    
+ .nav-sticky-custom {
+    width: 100%;
+}
+.nav-sticky-custom button {
+    float: right;
+    margin-top: 20px;
+}
+.asset-img img {
+    display: none;
+}
+.feature-block {
+    margin: 10px 18px;
+}    
+.video-background-holder {
+    width: 85%;
+        height: 300px;
+    margin: 0 auto;
+}    
+ .video-background-wrapper {
+    height: 625px;
+}
+.video-background-wrapper h3 {
+    margin-left: 15px;
+    text-align: center;
+}
+.video-background-wrapper p {
+    text-align: center;
+    margin-left: 0px;
+    margin-bottom: 35px;
+}    
+.asset-holder {
+    width: 75%;
+    margin: 0 auto;
+    text-align: center;
+}
+.asset-holder img {
+    width: 65%;
+    margin-left: 0;
+}    
+ .step-content.step-1 {
+    margin: 0px;
+    text-align: center;
+    margin-top: -10px;
+}
+.step-content.step-2 {
+    margin: 0px;
+    text-align: center!important;
+}
+.step-2 p.step-text {
+    padding: 0px;
+}    
+ .step-1 h3.step-title {
+    padding: 0px;
+}
+.step-1 p.step-text {
+    padding: 0px;
+}    
+ .step-asset-responsive-1 {
+    margin-top: -875px;
+}
+.step-content.text-right.step-2 {
+    margin-top: 500px;
+}
+img.macbook {
+    width: 90%;
+    margin-top: 145px;
+}    
+.step-content.step-3 {
+    margin: 0px;
+    text-align: center;
+}
+.step-content h3.step-title {
+    padding: 0px;
+}
+.step-content p.step-text {
+    padding: 0px;
+}    
+.asset-holder {
+    margin-top: 45px;
+}
+.step-content.step-3 {
+    margin-top: -15px;
+}
+    img.smartphone {
+    width: 55%;
+}    
+    ul.social-icons {
+    width: 100%;
+    text-align: center;
+}
+.footer-wrapper .logo {
+    text-align: center;
+    }
+    .asset-holder.bg-right {
+    background-position: right;
+    margin-top: 100px;
+}
+    
+     .author-content p{
+        padding: 0px;
+    }
+}
+
+@media only screen and (max-width: 450px) and (min-width: 150px) {
+    
+    a.navbar-brand img {
+    width: 145px;
+    margin-top: 10px;
+}
+    
+    .nav-sticky-custom {
+    width: 100%;
+}
+
+.nav-sticky-custom button {
+    float: right;
+    margin-top: 20px;
+}
+
+.asset-img img {
+    display: none;
+}
+
+.feature-block {
+    margin: 10px 18px;
+}
+    
+    .video-background-holder {
+    width: 85%;
+        height: 300px;
+    margin: 0 auto;
+}
+    
+    .video-background-wrapper {
+    height: 685px;
+}
+
+.video-background-wrapper h3 {
+    margin-left: 15px;
+    text-align: center;
+}
+
+.video-background-wrapper p {
+    text-align: center;
+    margin-left: 0px;
+    margin-bottom: 35px;
+}
+    
+    .asset-holder {
+    width: 75%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.asset-holder img {
+    width: 65%;
+    margin-left: 0;
+}
+    
+    .step-content.step-1 {
+    margin: 0px;
+    text-align: center;
+    margin-top: -70px;
+}.step-content.step-1 {}
+
+.step-content.step-2 {
+    margin: 0px;
+    text-align: center!important;
+}
+
+.step-2 p.step-text {
+    padding: 0px;
+}
+    
+    .step-1 h3.step-title {
+    padding: 0px;
+}
+
+.step-1 p.step-text {
+    padding: 0px;
+}
+    
+    .step-asset-responsive-1 {
+    margin-top: -875px;
+}
+
+.step-content.text-right.step-2 {
+    margin-top: 400px;
+}
+
+img.macbook {
+    width: 90%;
+    margin-top: 145px;
+}
+    
+    .step-content.step-3 {
+    margin: 0px;
+    text-align: center;
+}
+
+.step-content h3.step-title {
+    padding: 0px;
+}
+
+.step-content p.step-text {
+    padding: 0px;
+}
+    
+    .asset-holder {
+    margin-top: 45px;
+}
+
+.step-content.step-3 {
+    margin-top: -80px;
+}
+    img.smartphone {
+    width: 55%;
+}
+    
+    ul.social-icons {
+    width: 100%;
+    text-align: center;
+}
+
+.footer-wrapper .logo {text-align: center;}
+    
+     .author-content p{
+        padding: 0px;
+    }
+}
